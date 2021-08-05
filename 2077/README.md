@@ -2,6 +2,8 @@
 
 为了UKWR[^1]，为了IWPKWRF[^2]，为了全体KWR[^3]，为了TAKWRF[^4]，及其全体大众，特此创刊！
 
+另：由于UKWR政策过严，特此移步至此
+
 [^1]:Union of Kutin Wanda Republics，苦丁问答主义共和国联盟
 
 [^2]:Infinite Water-Post Kutin Wanda Republic Federal，无敌水帖苦丁问答主义共和国联邦
