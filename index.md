@@ -46,8 +46,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 报刊挂载列表
 
-1. 2077
+1. [2077](./2077)
 
 项目挂载列表
 
-1. free
+1. [free](./freedomcppgame/)
